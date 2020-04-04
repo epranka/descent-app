@@ -1,0 +1,19 @@
+#twitter {
+    position: fixed;
+    top: 20px;
+    left: 28px;
+    color: #3d4248;
+    z-index: 3;
+    text-decoration: none;
+    font-size: 12px;
+}
+
+#twitter img {
+    width: 18px;
+    margin-right: 3px;
+    vertical-align: middle;
+}
+
+#twitter:hover {
+    color: #3d4248;
+}
