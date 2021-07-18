@@ -238,6 +238,14 @@ const App = () => {
                 <Logo>
                     <img src="/logo.png" alt="top of descent logo favicon" />
                 </Logo>
+                <BoxAdvert>
+                    <p>
+                        Thanks that are you using this app, it means a lot.
+                    </p>
+                    <p>
+                        Also, check the new project <a href="https://airportdb.io" target="_blank" rel="noopener noreferrer">AirportDB.io</a>
+                    </p>
+                </BoxAdvert>
                 <Box>
                     <Header>Top of descent</Header>
                     <Hint>
@@ -475,11 +483,11 @@ const Logo = styled.div`
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-top: 100px;
-    margin-bottom: 100px;
+    margin-top: 80px;
+    margin-bottom: 70px;
 
     img {
-        max-width: 200px;
+        max-width: 150px;
         height: auto;
     }
 `;
@@ -489,6 +497,28 @@ const Container = styled.div`
     padding: 20px;
     position: relative;
     z-index: 2;
+`;
+
+const BoxAdvert = styled.div`
+    width: 100%;
+    margin: 0 auto;
+    max-width: 550px;
+    border: 5px solid white;
+    border-radius: 10px;
+    padding: 20px 30px;
+    margin-bottom: 20px;
+    background: #1d1d1d;
+    
+    p {
+        padding: 0;
+        margin: 0;
+    }
+
+    a {
+        color: white;
+        font-weight: 500;
+        text-decoration: underline;
+    }
 `;
 
 const Box = styled.div`
