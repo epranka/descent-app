@@ -68,4 +68,6 @@ Now we know how much distance takes the aircraft descent. But we need to calcula
 
 If you have any questions, feel free to ask. Feedback and questions are very appreciated.
 
-Follow on [Twitter](https://twitter.com/epranka), [GitHub](https://github.com/epranka), and let’s connect on [LinkedIn](https://linkedin.com/in/epranka)
+Follow on [Twitter](https://twitter.com/epranka), [GitHub](https://github.com/epranka), and let’s connect on [LinkedIn](https://linkedin.com/in/epranka).
+
+Also check my personal website: [epranka.com](https://epranka.com)

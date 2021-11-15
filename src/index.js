@@ -4,12 +4,12 @@ import "./index.css";
 import App from "./App";
 import GitHub from "./GitHub";
 import * as serviceWorker from "./serviceWorker";
-import Twitter from "./Twitter";
+import Credits from "./Credits";
 
 ReactDOM.render(
     <React.StrictMode>
         <App />
-        <Twitter />
+        <Credits />
         <GitHub />
     </React.StrictMode>,
     document.getElementById("root")
